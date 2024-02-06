@@ -1,0 +1,20 @@
+import time
+a = input("Who is better Messi or Ronaldo (Type M for Messi and R for Ronaldo)") 
+if a == "M": 
+    print("GOAT") 
+elif a == "R": 
+    print("Ronaldo is trash, SIUUUUUUUUUUU") 
+    time.sleep(2) 
+    print("Are you a REAL Ronaldo fan? try out those questions below!") 
+    time.sleep(2) 
+    qr1 = int(input("How many ballon d'or did Ronaldo have won?(Type number)")) 
+    if qr1 == 5: 
+        qr2 = int(input("Move on to q2, how old is Ronaldo as of 02/05/2024?(Type number)")) 
+        if qr2 == 39:
+            print(1) 
+        else: 
+            print("bro is a fake Ronaldo fan LOL") 
+    else: 
+        print("bro is a fake Ronaldo fan LOL") 
+
+else: print("please re-enter the letter, did you forgot to capitalize?")
