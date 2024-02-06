@@ -1,5 +1,3 @@
-Chelsea is the best, Messi is the GOAT
-
-in this file there will be a lot mini games of Messi or Ronaldo.
-
-The users have to choose between whether they like Messi or Ronaldo
+theme: Messi is the GOAT
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
